@@ -92,17 +92,19 @@ Dedicated self-driven developer with a strong foundation in **C# desktop applica
 ## `// GITHUB STATS`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jasfer2xp&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=c8e8f5&border_color=00d4ff&border_radius=0&hide_border=false" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasfer2xp&layout=compact&theme=transparent&title_color=00d4ff&text_color=c8e8f5&border_color=00d4ff&border_radius=0&hide_border=false" height="160"/>
-
+<!-- Contribution Streak — DenverCoder1 instance (active 2026) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Jasfer2xp&theme=dark&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c8e8f5&dates=c8e8f5&sideNums=00d4ff&currStreakNum=ffffff&background=030b12&stroke=1a2a3a&border_radius=0)
+ 
 </div>
-
 <div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Jasfer2xp&theme=transparent&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c8e8f5&dates=c8e8f5&stroke=00d4ff&border_radius=0)
-
+<!-- GitHub Profile Trophy — ryo-ma (active 2026) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jasfer2xp&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+<div align="center">
+<!-- Activity Graph — ashutosh00710 (active 2026) -->
+[![Jasfer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasfer2xp&bg_color=030b12&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 </div>
 
 ---
