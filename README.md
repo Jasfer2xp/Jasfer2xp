@@ -100,8 +100,8 @@ Dedicated self-driven developer with a strong foundation in **C# desktop applica
 
 <div align="center">
 
-<!-- GitHub Profile Trophy — ryo-ma (active 2026) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jasfer2xp&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Profile Trophy — volunteer mirror instances (try each if one fails) -->
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Jasfer2xp&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
