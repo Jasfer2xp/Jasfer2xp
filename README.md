@@ -9,7 +9,7 @@
  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
 ```
 
-### `> Jasfer T. Maghanoy`  —  Developer · AI Builder · Problem Solver
+### `> Jasfer T. Maghanoy`  —  Developer · Generative AI Developer · Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=C%23+%2F+.NET+Desktop+Developer;Web+Developer+%7C+HTML+CSS+JS;AI+%26+LLM+Integration+Engineer;Prompt+Engineering+Specialist;Building+tools+that+actually+work.)](https://git.io/typing-svg)
 
@@ -39,7 +39,8 @@ var jasfer = new Developer
 };
 ```
 
-Dedicated self-driven developer with a strong foundation in **C# desktop applications**, **modern web development**, and **AI-powered tooling**. I build production-grade software that solves real problems — from WPF/WinForms tools to LLM-integrated automation pipelines.
+Dedicated and self-driven Web Developer with a strong foundation in modern web technologies, C# desktop application development, and software engineering best practices. Experienced in designing and building production-grade applications that solve real-world problems, ranging from responsive web platforms and business systems to WPF and WinForms desktop applications. Passionate about creating secure, scalable, and user-focused software with clean architecture, maintainable code, and intuitive user experiences. Continuously learning and adapting to emerging technologies to deliver high-quality solutions.
+
 
 ---
 
