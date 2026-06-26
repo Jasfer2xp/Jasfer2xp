@@ -11,7 +11,7 @@
 
 ### `> Jasfer T. Maghanoy`  —  Developer · Generative AI Developer · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=C%23+%2F+.NET+Desktop+Developer;Web+Developer+%7C+HTML+CSS+JS;AI+%26+LLM+Integration+Engineer;Prompt+Engineering+Specialist;Building+tools+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=C%23+%2F+.NET+Desktop+Developer;Web+Developer+%7C+HTML+CSS+JS;AI+%26+Developer;Prompt+Engineering+Specialist;Building+tools+that+actually+work.)](https://git.io/typing-svg)
 
 ---
 
