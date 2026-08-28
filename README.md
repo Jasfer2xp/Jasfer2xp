@@ -34,16 +34,6 @@ In addition to core full-stack software development, I actively integrate AI-ass
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/Jasfer2xp">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jasfer2xp&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Jasfer's GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ## 💼 Core Specializations & Services
 
 <table>
@@ -201,11 +191,6 @@ In addition to core full-stack software development, I actively integrate AI-ass
 ## 📊 GitHub Activity & Analytics
 
 <div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jasfer2xp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasfer2xp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
-  </p>
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasfer2xp&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
