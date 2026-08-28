@@ -34,7 +34,7 @@ In addition to core full-stack software development, I actively integrate AI-ass
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
   <a href="https://github.com/Jasfer2xp">
@@ -117,17 +117,17 @@ In addition to core full-stack software development, I actively integrate AI-ass
 
 ---
 
-## 🚀 Featured Case Studies & Projects
+## 🚀 Featured Projects & Live Demos
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💼 Joblifyr</h3>
       <p align="center">
-        <b>Responsive Component-Driven Job Marketplace Platform</b>
+        <b>Responsive Component-Driven Job Platform</b>
       </p>
       <p>
-        A modern, component-driven job discovery web application engineered with reusable React components, dynamic listing cards, categorized search filters, and an audited PHP API endpoint infrastructure for high responsiveness.
+        A modern, component-driven job discovery and listing platform featuring dynamic search, categorized roles, and robust endpoint integrations. Engineered with modular React components and responsive styling for seamless multi-device performance.
       </p>
       <p>
         <b>Core Stack:</b> <code>React.js</code>, <code>Vite</code>, <code>Tailwind CSS</code>, <code>REST API</code>, <code>PHP</code>
@@ -166,10 +166,10 @@ In addition to core full-stack software development, I actively integrate AI-ass
     <td colspan="2" valign="top">
       <h3 align="center">🌐 Personal Developer Portfolio</h3>
       <p align="center">
-        <b>High-Performance Portfolio, Project Showcase & Workflows</b>
+        <b>High-Performance Portfolio & Case Studies</b>
       </p>
       <p align="center">
-        A custom-designed digital portfolio highlighting deployed web applications, backend solutions, and technical service workflows with smooth navigation, micro-interactions, and fully responsive layouts.
+        A bespoke portfolio presenting end-to-end projects, services, interactive live previews, and contact channels with a refined editorial aesthetic and fluid responsiveness.
       </p>
       <p align="center">
         <b>Core Stack:</b> <code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Tailwind CSS</code>, <code>GitHub Pages</code>
@@ -188,24 +188,13 @@ In addition to core full-stack software development, I actively integrate AI-ass
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Public Repositories
 
-<div align="center">
-
-<a href="https://github.com/Jasfer2xp/Joblifyr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jasfer2xp&repo=Joblifyr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Joblifyr Repo" />
-</a>
-<a href="https://github.com/Jasfer2xp/Nova-Chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jasfer2xp&repo=Nova-Chain&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Nova Chain Repo" />
-</a>
-
-<p align="center">
-  <a href="https://github.com/Jasfer2xp/Website-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jasfer2xp&repo=Website-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Website Portfolio Repo" />
-  </a>
-</p>
-
-</div>
+| Repository | Description | Primary Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **[Joblifyr](https://github.com/Jasfer2xp/Joblifyr)** | Modern component-driven job listing and discovery platform with dynamic filtering. | `React` `Tailwind` `PHP` | [Demo](https://joblifyr.vercel.app/) • [Code](https://github.com/Jasfer2xp/Joblifyr) |
+| **[Nova-Chain](https://github.com/Jasfer2xp/Nova-Chain)** | Interactive web application featuring Three.js 3D rendering and OAuth integration. | `React` `TypeScript` `Three.js` | [Demo](https://nova-chain-teal.vercel.app/) • [Code](https://github.com/Jasfer2xp/Nova-Chain) |
+| **[Website-Portfolio](https://github.com/Jasfer2xp/Website-Portfolio)** | Personal digital portfolio showcasing deployed software, services, and live work. | `HTML5` `Tailwind` `JavaScript` | [Demo](https://jasfer2xp.github.io/Website-Portfolio/) • [Code](https://github.com/Jasfer2xp/Website-Portfolio) |
 
 ---
 
